@@ -1,0 +1,19 @@
+.class-selector {
+    background:rgb(249, 166, 174);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#id-selector1 {
+    color: rgb(20, 12, 247);
+    font-size: 36px;
+}
+
+#id-selector2 {
+    background-color: rgb(148, 255, 119);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.special-font-size {
+    font-size: 24px;
+}
