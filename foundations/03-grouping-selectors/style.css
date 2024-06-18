@@ -1,0 +1,14 @@
+.affirmative-button, .negative-button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.negative-button {
+    background-color: yellow;
+}
+
+.affirmative-button {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
